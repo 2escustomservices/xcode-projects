@@ -1,5 +1,5 @@
-# These are jailbreak and other Xcode projects that do work 
-
+# These are Xcode projects that do work 
+I'll be adding more soon
 Go to releases 👇🏽
 
 
