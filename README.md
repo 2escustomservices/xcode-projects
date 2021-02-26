@@ -1,1 +1,1 @@
-# xcode-projects
+# These are jailbreak and other Xcode projects that do work 
