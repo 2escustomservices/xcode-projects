@@ -1,4 +1,4 @@
-# These are Xcode projects that do work 
+# These are Xcode projects
 I'll be adding more soon
 Go to releases 👇🏽
 
